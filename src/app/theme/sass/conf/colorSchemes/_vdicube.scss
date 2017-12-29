@@ -59,7 +59,7 @@ $hoverlink: $primary-dark;
 @mixin body-bg() {
   background-color: $body-bg;
 
-  $mainBgUrl: $assets-root + $images-root + 'vdicube-bg.png';
+  $mainBgUrl: $assets-root + $images-root + 'gray-bg.png';
 
   &::before {
     content: '';
