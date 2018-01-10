@@ -71,7 +71,7 @@ $hoverlink: $primary-dark;
     background: url($mainBgUrl) no-repeat center center;
     background-size: cover;
     will-change: transform;
-    z-index: 0;
+    z-index: 1;
   }
 }
 @mixin additional-bg() {
